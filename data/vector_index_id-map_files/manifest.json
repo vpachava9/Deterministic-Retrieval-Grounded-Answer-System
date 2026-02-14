@@ -1,0 +1,14 @@
+{
+  "index_name": "knowledge_chunks_cosine",
+  "index_version": "text-embedding-3-large__embed_ops_v1__dim3072__20260212T161452Z",
+  "embedding_model_name": "text-embedding-3-large",
+  "embedding_model_version": "embed_ops_v1",
+  "embedding_dim": 3072,
+  "similarity": "cosine",
+  "vector_count": 202,
+  "export_run_id": "run_20260209_001",
+  "built_at_utc": "2026-02-12T16:14:56.724666+00:00",
+  "index_file": "abfss://gold-genai@ecomdatastoreproject.dfs.core.windows.net/vector_index/faiss/index_name=knowledge_chunks_cosine/index_version=text-embedding-3-large__embed_ops_v1__dim3072__20260212T161452Z/index.faiss",
+  "id_map": "abfss://gold-genai@ecomdatastoreproject.dfs.core.windows.net/vector_index/faiss/index_name=knowledge_chunks_cosine/index_version=text-embedding-3-large__embed_ops_v1__dim3072__20260212T161452Z/id_map.parquet",
+  "metadata": "abfss://gold-genai@ecomdatastoreproject.dfs.core.windows.net/vector_index/faiss/index_name=knowledge_chunks_cosine/index_version=text-embedding-3-large__embed_ops_v1__dim3072__20260212T161452Z/metadata.parquet"
+}
